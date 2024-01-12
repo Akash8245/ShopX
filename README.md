@@ -1,0 +1,1 @@
+Hello, I'm Akash, the creator of ShopX, an avant-garde ecommerce platform featuring the latest in fashion. Crafted with precision using Tailwind CSS and React JS, this showcase exemplifies my prowess in web development. Explore a seamless and professional shopping experience at ShopX.
